@@ -1,0 +1,19 @@
+header {
+  background-color: linen;
+  font-family: helvtica;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+body {
+  background-color: linen;
+  font-size: 24;
+  font-family: helvetica;
+  text-align: center;
+  background-image: url("../images2.html");
+  height: 500px;
+  background-position: center;
+}
